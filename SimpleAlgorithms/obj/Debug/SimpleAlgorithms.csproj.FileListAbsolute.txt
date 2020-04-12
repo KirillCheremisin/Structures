@@ -1,0 +1,7 @@
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.exe.config
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.exe
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\bin\Debug\SimpleAlgorithms.pdb
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csprojAssemblyReference.cache
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.exe
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.pdb
