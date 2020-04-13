@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoublyLinkedList.cs" />
+    <Compile Include="DoublyNode.cs" />
     <Compile Include="LinkedList.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
