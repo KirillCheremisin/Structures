@@ -1,0 +1,17 @@
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\SimpleAlgorithmsTests.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\SimpleAlgorithmsTests.pdb
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\SimpleAlgorithms.exe
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\SimpleAlgorithms.pdb
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\SimpleAlgorithms.exe.config
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\obj\Debug\SimpleAlgorithmsTests.csprojAssemblyReference.cache
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\obj\Debug\SimpleAlgorithmsTests.csproj.CoreCompileInputs.cache
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\obj\Debug\SimpleAlgorithmsTests.csproj.CopyComplete
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\obj\Debug\SimpleAlgorithmsTests.dll
+C:\Users\chere\Files\Trainings\cs\algorithms\SimpleAlgorithms\SimpleAlgorithmsTests\obj\Debug\SimpleAlgorithmsTests.pdb
