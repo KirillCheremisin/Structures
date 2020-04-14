@@ -11,7 +11,8 @@ namespace SimpleAlgorithms
         static void Main(string[] args)
         {
             //CheckLinkedList();
-            CheckDoublyLinkedList();
+            //CheckDoublyLinkedList();
+            CheckStack();
         }
 
         public static void CheckDoublyLinkedList()
@@ -130,6 +131,37 @@ namespace SimpleAlgorithms
             nameList.Clear();
             Console.WriteLine("Count is {0}", nameList.Count);
             Console.WriteLine("Is list empty {0}", nameList.IsEmpty.ToString());
+            _ = Console.ReadLine();
+        }
+        private static void CheckStack()
+        {
+            Stack<string> people = new Stack<string>();
+            people.Push("Tom");
+            people.Push("Bob");
+            people.Push("Sam");
+            people.Push("Alice");
+            
+            Console.WriteLine("Count is {0}", people.Count);
+            people.WriteItems();
+
+            Console.WriteLine("");
+            Console.WriteLine("Peeked item");
+            var head = people.Peek();
+            Console.WriteLine(head);
+
+            head = people.Pop();
+            Console.WriteLine("");
+            Console.WriteLine("Count is {0}", people.Count);
+            people.WriteItems();
+
+            Console.WriteLine("");
+            Console.WriteLine("Pop to the end");
+            while (!people.IsEmpty)
+            {
+                string person = people.Pop();
+                Console.WriteLine(person);
+            }
+            Console.WriteLine("Count is {0}", people.Count);
             _ = Console.ReadLine();
         }
     }
