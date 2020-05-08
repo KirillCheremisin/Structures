@@ -12,7 +12,47 @@ namespace SimpleAlgorithms
         {
             //CheckLinkedList();
             //CheckDoublyLinkedList();
-            CheckStack();
+            //CheckStack();
+            CheckNodeStack();
+        }
+
+        private static void CheckNodeStack()
+        {
+            NodeStack<string> nameList = new NodeStack<string>();
+            Console.WriteLine("Is empty: {0}",nameList.IsEmpty);
+            nameList.Push("Tom");
+            nameList.Push("Alice");
+            nameList.Push("Bob");
+            nameList.Push("Kate");
+
+            Console.WriteLine();
+            Console.WriteLine("Is empty: {0}", nameList.IsEmpty);
+            Console.WriteLine("Name list:");
+            foreach (var name in nameList)
+            {
+                Console.WriteLine(name);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Count is {0}",nameList.Count);
+
+            Console.WriteLine();
+            Console.WriteLine("Peeked item is: {0}", nameList.Peek());
+
+            Console.WriteLine();
+            Console.WriteLine("Popped item is: {0}", nameList.Pop());
+
+            Console.WriteLine();
+            Console.WriteLine("Name list:");
+            foreach (var name in nameList)
+            {
+                Console.WriteLine(name);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Count is {0}", nameList.Count);
+
+            _ = Console.ReadLine();
         }
 
         public static void CheckDoublyLinkedList()

@@ -1,3 +1,12 @@
 .vs/SimpleAlgorithms/v16/TestStore
 .vs/SimpleAlgorithms/v16
 TestResults
+.vs/SimpleAlgorithms/v16/.suo
+.vs/SimpleAlgorithms/v16/TestStore/0/000.testlog
+SimpleAlgorithms/bin/Debug/SimpleAlgorithms.exe
+SimpleAlgorithms/bin/Debug/SimpleAlgorithms.pdb
+SimpleAlgorithms/obj/Debug/SimpleAlgorithms.csproj.CoreCompileInputs.cache
+SimpleAlgorithms/obj/Debug/SimpleAlgorithms.csprojAssemblyReference.cache
+SimpleAlgorithms/obj/Debug/SimpleAlgorithms.exe
+SimpleAlgorithms/obj/Debug/SimpleAlgorithms.pdb
+SimpleAlgorithmsTests/obj/Debug/SimpleAlgorithmsTests.csprojAssemblyReference.cache
